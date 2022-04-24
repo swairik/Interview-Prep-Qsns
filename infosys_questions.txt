@@ -1,0 +1,130 @@
+Array/String
+
+1. Count of longest possible subarrays with sum not divisible by K.
+
+2. Find common elements between two arrays.
+
+3. Find the subarrays of an array.
+
+4. Find the sum of subarrays of an array. (O(n) Time is required)
+
+5. Find second max elements in an array,
+
+6. Implementation – Insertion Sort, Merge Sort, Heap Sort, Radix Sort
+
+7. Largest contiguous sum subarray
+
+8. Write a program to reverse a string without using any inbuilt function ?
+
+9. You are given a file containing space seperated words, your job is to find the most trending word in a file.
+
+10. Write a program of printing the nth number in fibonacci series.         (logn -> use matrix exponentiation)
+
+11. Explain the working of Merge Sort.
+
+12. You are given a sequence of numbers your job is to find frequency of each element in single traversal (approach of using hashmap).
+
+    given a 2gb file and an extra 1gb memory, use this 1gb memory to sort the entire 2gb file (use merge-sort -> merge procedure keeping max chunk size as 1gb)
+
+13. Suppose you are given two arrays, you have to merge them in sorted order.
+
+14. Generate substrings of string.
+
+15. Find the lexicographically next permutation of a given string.
+
+16. Write a program that checks whether a string is palindromic in nature.
+
+17. Given an integer, print the next smallest palindrome.
+
+18. Find the prime factors of a number [use : Sieve of Eratosthenes]
+
+    longest palindromic substring (manachar's algorithm)
+
+    maximum possible average value of sub-sequences of an array a
+
+
+Stack/ Queue
+
+19. What is Stack ?
+
+20. What is Queue ?
+
+21. Implement Stack & Queue.            // 
+
+22. Conditions for Stack Overflow and Queue Insertion/ Deletion.
+
+23. Explain Enqueue() & Dequeue() operation.
+
+
+
+Linked List
+
+24. Find the reverse of singly/doubly linked list.
+
+    reverse a linked list of k groups
+
+25. Find the length of singly linked list.
+
+26. Given a linked list find the middle element.
+
+27. Implement merge sort but not in array, in linked list.
+
+28. Given a linked list check if it is palindrome or not.
+
+29. Write a program to detect a loop in linked list.
+
+30. Search an element in a Linked List.
+
+    alternate nodes in a linked list
+
+Tree
+
+31. BST – Insertion, Deletion, Traversing
+
+32. Inorder/ Preorder/ Postorder Traversal of Linked List
+
+33. How is B+ tree different from B Tree ?
+
+34. Level Order Traversal Binary Tree.
+
+35. Vertical Order Traversal Binary Tree.
+
+36. Mirror view of Binary Tree.
+
+37. Top/Bottom/Left/Right view of Binary Tree.
+
+38. Zigzag order traversal of Tree
+
+Graph
+
+39. Implement level order traversal of a graph.
+
+40. Implement BFS.
+
+41. Implement DFS.
+
+42. Explain the difference between BFS, & DFS and Implement.
+
+43. Write code for Red Black Tree implementation.
+
+    Graph colouring
+
+Miscellaneous
+
+44. Coin Change Problem
+
+
+
+
+1) Version of Minimum Cost to connect all cities to be implemented and explained    ???????
+
+2) Rat in a Maze (Backtracking, dp(maybe))
+
+3) Design IRCTC with use cases (using oops ??? )          -- seems popular question  
+
+4) Kadanes Algo
+
+7) long url to short url (use hashing)
+
+11) sum of all pairs in arrays
+
