@@ -94,6 +94,8 @@ Tree
 
 38. Zigzag order traversal of Tree
 
+    Write code for Red Black Tree implementation.
+
 Graph
 
 39. Implement level order traversal of a graph.
@@ -104,9 +106,7 @@ Graph
 
 42. Explain the difference between BFS, & DFS and Implement.
 
-43. Write code for Red Black Tree implementation.
-
-    Graph colouring
+43. Graph colouring
 
 Miscellaneous
 
