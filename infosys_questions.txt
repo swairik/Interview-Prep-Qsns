@@ -56,7 +56,6 @@ Stack/ Queue
 23. Explain Enqueue() & Dequeue() operation.
 
 
-
 Linked List
 
 24. Find the reverse of singly/doubly linked list.
