@@ -128,3 +128,8 @@ Miscellaneous
 11) sum of all pairs in arrays
 
 12) convert a number to negative base 2
+
+
+Questions: 
+
+
