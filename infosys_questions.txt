@@ -108,6 +108,8 @@ Graph
 
 43. Graph colouring
 
+    basic graph algos like : prims, kruskal, dijkstra, bellman-ford, floyd-warshall
+
 Miscellaneous
 
 44. Coin Change Problem
@@ -119,7 +121,7 @@ Miscellaneous
 
 2) Rat in a Maze (Backtracking, dp(maybe))
 
-3) Design IRCTC with use cases (using oops ??? )          -- seems popular question  
+3) Design IRCTC with use cases (using oops ??? )          -- seems popular question
 
 4) Kadanes Algo
 
