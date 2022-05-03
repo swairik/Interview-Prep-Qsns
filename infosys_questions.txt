@@ -116,6 +116,10 @@ Miscellaneous
 
 
 
+    design  hashmap 
+            hashset
+            lru cache
+
 
 1) Version of Minimum Cost to connect all cities to be implemented and explained    ???????
 
