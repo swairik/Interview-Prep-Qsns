@@ -83,6 +83,7 @@ void dijkstraUsingAdjacencyList(int src, int n) {
 
     dist[src] = 0;
 
+    // loop runs n times as we have not taken any vertices yet
     for(int i = 0; i < n; i++) {
         int u = -1;
         for(int j = 0; j < n; j++) {
