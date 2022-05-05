@@ -42,6 +42,8 @@ Array/String
 
     maximum possible average value of sub-sequences of an array a
 
+    water trapping Problem
+
 
 Stack/ Queue
 
@@ -96,6 +98,10 @@ Tree
 
     Write code for Red Black Tree implementation.
 
+    implement avl tree
+
+    inorder successor
+
 Graph
 
 39. Implement level order traversal of a graph.
@@ -110,11 +116,15 @@ Graph
 
     basic graph algos like : prims, kruskal, dijkstra, bellman-ford, floyd-warshall
 
-Miscellaneous
+DP
 
 44. Coin Change Problem
 
+45. Knapsack
 
+Miscellaneous
+
+    matrix rotation
 
     design  hashmap 
             hashset
