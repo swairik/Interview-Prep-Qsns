@@ -58,7 +58,7 @@ struct Matrix {
 };
 
 Matrix fn(Matrix temp, Matrix mat, int n) {
-    // n += 1;
+    n += 1;
     while(n) {
         if(n & 1) {
             temp = temp * mat;
