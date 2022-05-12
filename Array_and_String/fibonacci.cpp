@@ -45,10 +45,6 @@ struct Matrix {
     // }
 
     Matrix operator * (Matrix other) {
-        /*
-            a  b
-            c  d
-        */
         Matrix product{{{0, 0}, {0, 0}}};
         for(int i = 0; i < 2; i++) {
             for(int j = 0; j < 2; j++) {
